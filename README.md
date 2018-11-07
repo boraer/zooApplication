@@ -19,12 +19,13 @@ The assumptions are given below;
 * Java 8
 * Java NIO
 * Spring Boot 2
-* Cron
 * JPA
 * Hibernate
-* Gradle
+* Maven
 * AOP
 * JSON
+* Docker
+* Swagger
 
 
 ## **WHAT HAVE BEEN DONE IN PROJECT**
